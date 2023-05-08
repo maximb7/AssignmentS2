@@ -19,11 +19,31 @@ main > .container1 {
   float: right;
 }
 
+main > .containerM0 {
+  padding: 10px 5%;
+  float: left;
+  width: 50%;
+}
+
+main > .containerM1 {
+  padding: 10px 5%;
+  width: 50%;
+  float: right;
+}
+
 .container1 > img{
 margin-top: 10%;
 margin-bottom: 10%;
 border-radius: 10px;
 }
+
+.containerM1 > img{
+  margin-top: 10%;
+  margin-bottom: 10%;
+  border-radius: 10px;
+  }  
+
+
 
 
 .bd-placeholder-img {
