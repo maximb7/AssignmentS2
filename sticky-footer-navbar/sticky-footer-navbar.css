@@ -31,18 +31,27 @@ main > .containerM1 {
   float: right;
 }
 
-.container1 > img{
-margin-top: 10%;
-margin-bottom: 10%;
-border-radius: 10px;
-}
-
-.containerM1 > img{
+.container1 > img {
   margin-top: 10%;
   margin-bottom: 10%;
   border-radius: 10px;
-  }  
+}
 
+.containerM1 > img {
+  margin-top: 10%;
+  margin-bottom: 10%;
+  border-radius: 10px;
+}  
+
+.container > img {
+  margin: 10px;
+  border-radius: 10px;
+}  
+
+a{
+  margin: 10px;
+  border-radius: 10px;
+}
 
 
 
