@@ -4,18 +4,27 @@
 
 main > .container {
   padding: 150px 5%;
-  width: 50%;
   float: left;
+}
+
+main > .container0 {
+  padding: 150px 5%;
+  float: left;
+  width: 50%;
 }
 
 main > .container1 {
   padding: 150px 5%;
+  width: 50%;
+  float: right;
 }
 
-  main > img{
-    border-radius: 10px;
-    padding: 100px;
+.container1 > img{
+margin-top: 10%;
+margin-bottom: 10%;
+border-radius: 10px;
 }
+
 
 .bd-placeholder-img {
   font-size: 1.125rem;
